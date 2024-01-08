@@ -17,6 +17,8 @@
 
 ![gambar](pict/outputuas.png)
 
+<h1>Daftar Penggunaan Library Pada Program</h1>
+
 ## Input/Output (I/O):
 
 + <p>input() digunakan untuk menerima input dari pengguna melalui terminal.</p>
@@ -36,3 +38,8 @@
 ## String Formatting:
 
 + <p>format() digunakan untuk memformat string dengan menambahkan nilai ke dalam placeholder.</p>
+
+<h1>Video Pembuatan Program Kasir</h1>
+
+[Klik di sini untuk melihat pembuatan program](https://youtu.be/a_UsHIg2MTA)
+
